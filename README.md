@@ -7,3 +7,7 @@ Ejercicio 2 - Sistema de Caja Fuerte Vault
 Ejercicio 3 - Jerarquia Cuenta Bancaria
 
 Ejercicio 4 -  Sistema de Procesamiento De Pedidos
+
+Ejercicio 5 - Servicio de Notificaciones Multiples
+
+Ejercicio 6 - Sistema de Repositorio de Datos
